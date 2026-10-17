@@ -1,0 +1,6 @@
+black 202020
+white f1f1f1
+rust 492900
+screws AAAAAA
+metallic base value CCCCCC
+UI BBCC00
