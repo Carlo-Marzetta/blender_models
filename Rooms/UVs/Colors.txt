@@ -1,0 +1,4 @@
+Metal Color: AAAAAA
+Screw Color: CBCBCB
+Metallic Color: CCCCCC
+Rust: 492900
